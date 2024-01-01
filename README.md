@@ -16,3 +16,12 @@ CSS3: Styling and layout of web elements.
 This project is solely for educational purposes and to demonstrate HTML, CSS, and Bootstrap skills. The design and content are inspired by the original Oppo e-commerce website.
 
 
+
+
+## Deployed Version
+
+This project is deployed and accessible online. Here is the deployed link:
+
+Deployed Link: https://dilshad-knk.github.io/oppo/
+
+Feel free to visit and explore the live version!
