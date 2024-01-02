@@ -8,9 +8,11 @@ This project is a static clone of the Oppo e-commerce website. It's built using 
 
 ## Technologies Used
 
-HTML5: Used for structuring the content of web pages.
+**HTML5**: Used for structuring the content of web pages.
 
-CSS3: Styling and layout of web elements.
+**CSS3**: Styling and layout of web elements.
+
+**Bootstrap**: Enhancing responsiveness.
 
 
 This project is solely for educational purposes and to demonstrate HTML, CSS, and Bootstrap skills. The design and content are inspired by the original Oppo e-commerce website.
